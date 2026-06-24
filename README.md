@@ -21,6 +21,10 @@ The project uses HTML, CSS, and JavaScript to create an interactive user experie
 
 ![Dark Mode Screenshot](./screenshots/light.png)
 
+## Live Demo
+
+live link : https://abhijith-e0.github.io/Dark-Light-Mode/
+
 ## Technologies Used
 
 - HTML5
